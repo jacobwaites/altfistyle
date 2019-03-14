@@ -433,13 +433,13 @@ section.hero {
 }
 
 a.navtrig {
-    background: #fff;
+    background: #e8bea6;
     padding-left: .85rem;
     padding-right: .65rem;
-    border: 3px solid #222222;
+    /* border: 3px solid #222222; */
     padding-bottom: 0.65rem;
     padding-top: .65rem;
-    color: #222;
+    color: #274572;
     text-align: center;
 }
 
@@ -813,15 +813,15 @@ color:rgba(248, 207, 12, 1);
     position: fixed;
     margin-left: 0%;
     z-index: 1000;
-    background: #fff;
-    border: 2px solid #222;
-    opacity:0;
-        transition: all .4s ease;
+    background: #fff5dc;
+    /* border: 2px solid #222; */
+    opacity: 0;
+    transition: all .4s ease;
     -webkit-transition: all .4s ease;
     -moz-transition: all .4s ease;
     -ms-transition: all .4s ease;
-        margin-top: 4%;
-        pointer-events:none;
+    margin-top: 4%;
+    pointer-events: none;
 }
 
 .nav-list {
